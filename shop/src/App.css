@@ -1,0 +1,23 @@
+
+/* Navbar */
+
+.shopping-cart {
+  min-width: 450px;
+}
+
+.navbar-color {
+background-color: black;
+}
+
+
+/* cartItem */
+
+.image-width {
+  width: 90px;
+}
+
+/* cart */
+
+.total-price {
+  font-size: 1.1em;
+}
